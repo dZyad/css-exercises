@@ -17,7 +17,7 @@ html {
     "sidebar nav"
     "sidebar article"
     "footer footer";
-    gap: 15px;
+  gap: 15px;
 }
 
 .container div {
